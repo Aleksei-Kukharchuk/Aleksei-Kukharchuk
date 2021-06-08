@@ -30,10 +30,10 @@
       <td><a href="https://aleksei-kukharchuk.github.io/goit-markup-hw-08/"><b>Web-studio (Markup)</b></a></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <td><a href="https://akv-netlify-homework.netlify.app/k"><b>Movie Search</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td><a href="https://akv-09-hw-phonebook.netlify.app/"><b>Phonebook</b></a></td>
     </tr>
   </tbody>
 </table>
