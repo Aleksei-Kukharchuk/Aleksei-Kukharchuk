@@ -18,7 +18,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Open source projects</h3>
+<h3>My projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
