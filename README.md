@@ -3,6 +3,8 @@
 
 <p>Welcome to my page! </br> I'm Aleksei, Fullstack developer from <img src="https://img.icons8.com/color/48/000000/ukraine.png" width="20"/> <b>Kyiv, Ukraine</b>
 
+[![Gmail Badge](https://img.shields.io/badge/-kukharchuk.work@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kukharchuk.work@gmail.com)](mailto:kukharchuk.work@gmail.com) <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1yCLwme3bGX0mFDb3GEpr6fNSxO7_ru50/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -37,8 +39,6 @@
     </tr>
   </tbody>
 </table>
-
-[![Gmail Badge](https://img.shields.io/badge/-kukharchuk.work@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kukharchuk.work@gmail.com)](mailto:kukharchuk.work@gmail.com) <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1yCLwme3bGX0mFDb3GEpr6fNSxO7_ru50/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 
 <h3>Where to find me</h3>
 <p><a href="https://www.linkedin.com/in/aleksei-kukharchuk-608753193" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
