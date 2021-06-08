@@ -40,4 +40,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-kukharchuk.work@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kukharchuk.work@gmail.com)](mailto:kukharchuk.work@gmail.com) <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1yCLwme3bGX0mFDb3GEpr6fNSxO7_ru50/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 
-
+<h3>Where to find me</h3>
+<p><a href="https://www.linkedin.com/in/aleksei-kukharchuk-608753193" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
