@@ -32,7 +32,7 @@
       <td><a href="https://aleksei-kukharchuk.github.io/goit-markup-hw-08/"><b>Web-studio (Markup)</b></a></td>
     </tr>
 	  <tr>
-      <td><a href="https://akv-netlify-homework.netlify.app/k"><b>Movie Search</b></a></td>
+      <td><a href="https://akv-netlify-homework.netlify.app/"><b>Movie Search</b></a></td>
     </tr>
     <tr>
       <td><a href="https://akv-09-hw-phonebook.netlify.app/"><b>Phonebook</b></a></td>
