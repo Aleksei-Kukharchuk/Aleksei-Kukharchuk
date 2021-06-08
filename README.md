@@ -1,7 +1,7 @@
 ## Hey 👋, This is Aleksei Kukharchuk
 
 
-<p>Welcome to my page! </br> I'm Aleksei, Fullstack developer from <img src="<img src="https://img.icons8.com/color/48/000000/ukraine.png" width="13"/> <b>Kyiv, Ukraine</b>
+<p>Welcome to my page! </br> I'm Aleksei, Fullstack developer from <img src="<img src="https://img.icons8.com/color/48/000000/ukraine.png"/> <b>Kyiv, Ukraine</b>
 
 <h3>Things I code with</h3>
 <p>
