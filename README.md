@@ -1,4 +1,4 @@
-## Hey 👋, This is Aleksei Kukharchuk
+## Hey 👋, 
 
 
 <p>Welcome to my page! </br> I'm Aleksei, Fullstack developer from <img src="https://img.icons8.com/color/48/000000/ukraine.png" width="20"/> <b>Kyiv, Ukraine</b>
