@@ -18,4 +18,26 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://aleksei-kukharchuk.github.io/goit-markup-hw-08/"><b>Web-studio (Markup)</b></a></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
 [![Gmail Badge](https://img.shields.io/badge/-kukharchuk.work@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kukharchuk.work@gmail.com)](mailto:kukharchuk.work@gmail.com) <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1yCLwme3bGX0mFDb3GEpr6fNSxO7_ru50/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+
+
